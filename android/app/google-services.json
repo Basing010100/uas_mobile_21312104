@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095968281904",
+    "project_id": "uas-21312104",
+    "storage_bucket": "uas-21312104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095968281904:android:287dbbda08dba07d1024f5",
+        "android_client_info": {
+          "package_name": "com.tekno.uas_21312104"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5Puj5ssHwo2FRhOhYmGVcfJtmtW4Ud4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
